@@ -1,8 +1,9 @@
 # registration-login
 
-## Clone this repository
+## Repo Under Development
 
-## Under Development
+## Clone this repository for testing
+
 
 - Add this repository in the htdocs of xampp folder <br>
 - Create a database named "task" and a table in mysql under the name "users" which has "slno", "email" and "password" as columns.<br>
