@@ -19,6 +19,7 @@ $(document).ready(function(){
                 },
             success: function(response){
                 console.log(response);
+                window.location.assign("http://localhost/guvi-task/profile.html");
             },
             dataType:'text'
             });
